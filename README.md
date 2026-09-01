@@ -7,7 +7,7 @@
 **M.S. Computer Science @ Texas A&M University**  
 **AI Systems Intern @ Austin Visuals • Malware Detection Researcher @ TAMU**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-freddynguyen.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://freddynguyen.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-freddynguyen.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://freddy-nguyen-tamu.github.io/cv/)
 [![Email](https://img.shields.io/badge/Email-quan.ng%40tamu.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quan.ng@tamu.edu)
 
 </div>
@@ -133,6 +133,6 @@ Led a **4-person Scrum team** building referrals, messaging, authentication, RBA
 
 **AI • ML • Search • Distributed Systems • Full-Stack**
 
-[Portfolio](https://freddynguyen.com) • [Email](mailto:quan.ng@tamu.edu)
+[freddynguyen.com](https://freddy-nguyen-tamu.github.io/cv/) • [Email](mailto:quan.ng@tamu.edu)
 
 </div>
